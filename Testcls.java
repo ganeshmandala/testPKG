@@ -6,7 +6,7 @@ public class Testcls {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("Test one1");
+		System.out.println("Test one2");
 
 	}
 
